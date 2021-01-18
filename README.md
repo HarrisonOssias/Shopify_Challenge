@@ -6,13 +6,13 @@ I chose to make two mini "apps" that both use a Python/Flask backend and HTML/CS
 ## Image Loader
 I created this app to help upload and download images files (jpeg, png, etc..).  It uses Flask-Upload to find local directories. 
 
-*How to RUn*
+*How to Run*
 Either use Docker build and Docker Run -p 4000:4000 <testname> in the main directory (image_loader) or cd into loader_app run: 'pipenv shell' and 'flask run' 
 
 ## Sort-Compare
 Next,I made sort-compare which is a dockerized application to sort a given array and compare the runtimes of quick, merge, and bubble sort.
 
-*How to RUn*
+*How to Run*
 Either use Docker build and Docker Run -p 4000:4000 <testname> in the main directory (image_loader) or cd into loader_app run: 'pipenv shell' and 'flask run' 
 
 
